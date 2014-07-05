@@ -1,0 +1,10 @@
+{
+    "require": {
+        "behat/behat": "2.4.0",
+        "guzzle/guzzle": "2.4.*",
+        "guzzlehttp/guzzle": "4.*"
+    },
+    "config": {
+        "bin-dir": "bin/"
+    }
+}
